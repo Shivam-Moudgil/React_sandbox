@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+img {
+  border-radius: 4rem;
+}
+.ok {
+  display: flex;
+  width: 60%;
+  margin: auto;
+  align-items: center;
+  justify-content: space-around;
+  border: 1px solid;
+  gap: 2px;
+  background-color: darkgray;
+  border-radius: 9px;
+}
+h1,
+h3 {
+  width: 20%;
+}
+#here {
+  margin-bottom: 20px;
+}
+button {
+  padding: 8px 20px;
+  border-radius: 5px;
+  background-color: darkslateblue;
+  color: white;
+}
